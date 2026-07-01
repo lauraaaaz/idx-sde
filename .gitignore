@@ -1,6 +1,12 @@
 .env
+.env
 sql/
 venv/
 __pycache__/
 *.pyc
 .DS_Store
+backend/node_modules
+backend/.env
+frontend/node_modules
+.DS_Store
+sql/
